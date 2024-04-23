@@ -10,7 +10,7 @@ script will go through and scrape each site listed in the file.
 
 This repository was originally created as part of [this tutorial](https://venkatehs.github.io/blog/Automatic-news-scraper/).
 
-Thanks to [Pål Grønås Drange](https://github.com/pgdr) for his contributions to the repository.
+Thanks to (https://github.com/pgdr) for his contributions to the repository.
 
 ## Installing
 
